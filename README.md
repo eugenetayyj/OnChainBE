@@ -1,24 +1,11 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ensure that you have Ruby, Rails and Bundler on your computer. If you have, skip to 4
+1. Install Ruby on your computer. 
+    - For [Windows](https://rubyinstaller.org/)
+    - For [macOS](https://www.ruby-lang.org/en/documentation/installation/)
+    - For [Linux](https://www.ruby-lang.org/en/documentation/installation/)
+2. Install Rails.
+    - `gem install rails`
+3. Install Bundler.
+    - `gem install bundler`
+4. Open the project directory and in the project folder run `rails s`
